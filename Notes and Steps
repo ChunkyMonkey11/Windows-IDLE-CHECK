@@ -1,0 +1,10 @@
+To run this code I need to go to the directory that this is stored in through command prompt.
+Then run python background_monitor.py 
+
+TODO:
+Clean the code make it more understandable through commenting. Explain to myself and teach myself how it works.
+Make the popup stop repeating and figure out how to make it only closeable through a password of my choosing. 
+Understand the code. 
+Write about in projects for resume.
+Get it to run every time computer is unlocked. 
+FIGURE OUT HOW TO REACTIVATE IT.
